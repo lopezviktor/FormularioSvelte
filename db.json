@@ -1,0 +1,12 @@
+{
+  "usuarios": [
+    {
+      "id": "46d9",
+      "nombre": "Victor",
+      "apellido": "Lopez",
+      "email": "victor@pruebas.com",
+      "telefono": "65622118",
+      "puesto": "Desarrollador"
+    }
+  ]
+}
